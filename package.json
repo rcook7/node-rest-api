@@ -1,0 +1,17 @@
+{
+  "name": "node-rest-api",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "async": "^2.5.0",
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "mongoose": "^4.11.0",
+    "morgan": "^1.8.2",
+    "nodemon": "^1.11.0"
+  }
+}
